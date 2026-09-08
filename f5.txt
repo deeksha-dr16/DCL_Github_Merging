@@ -1,1 +1,2 @@
-Do the merging operation of git and github
+Do the merging operation of git and github 
+Performing merge conflict in master
